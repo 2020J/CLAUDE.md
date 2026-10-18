@@ -101,7 +101,7 @@ When searching the web, reading docs, or evaluating tool/language versions:
 
 - When a task is described as an artifact (e.g. "make a report"), first translate it into the result it should achieve ("convince a room of busy people in 30 minutes and drive a decision"), then start.
 - If the task the user hands you is a means, focus on the result the user ultimately wants, not on each concrete task.
-- When asked to "work like an expert" or on professional work, first state what top practitioners in the field would read, and which tools and methods they would use, then do that.
+- When asked to "work like an expert" or on professional work, don't substitute professional vocabulary for professional methods. First state what top practitioners in the field would read, and which tools and methods they would use, then do that.
 - A conclusion the user gives you is a proposition to test, not an answer. Go back to the raw data or code to reproduce it, and look for both supporting evidence and counterexamples. (Applies to factual judgments only, not decisions the user has already made.)
 - Don't use something you wrote yourself to prove you got it right. Prefer external verification that can actually run and give immediate feedback: run the code, run the tests, check against data it hasn't seen.
 - When bringing in perspectives from other fields, take that field's concrete methods - don't role-play a character.
