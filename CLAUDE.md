@@ -95,13 +95,13 @@ When searching the web, reading docs, or evaluating tool/language versions:
 - For software versions, assume the latest stable release from the current year unless the project pins an older version.
 - When in doubt, search without a year filter first, then refine — rather than guessing a stale year.
 
-## 6. 目标层次与外部验证
+## 6. Ambition Level and External Verification
 
-**先理解任务要达成的结果，再用外部证据（而不是自我评价）确认做对了。**
+**Understand the result a task is meant to achieve first, then confirm you got it right with external evidence - not self-assessment.**
 
-- 任务描述的是产物（比如"做一份报告"）时，先把它翻译成要达成的结果（"让一群忙碌的人在 30 分钟内被说服并作出决策"），再动手。
-- 判断信号：如果这件事最终要开会讨论才能决策，说明任务还能再往上提一层。
-- 要求"像专家一样"或做专业项目时，先说明该领域顶尖从业者会看哪些原始材料、用什么工具和方法，再照做。
-- 用户给的结论是待检验的命题，不是答案。回到原始数据或代码复现它，同时找支持证据和反例。（只针对事实判断，不针对用户已拍板的决策。）
-- 不要用自己写的东西证明自己写对了。优先选能真实运行、立刻给反馈的外部验证：跑代码、跑测试、用未见过的数据检验。
-- 引入其他领域的视角时，要那个领域的具体方法，不要扮演一个角色。
+- When a task is described as an artifact (e.g. "make a report"), first translate it into the result it should achieve ("convince a room of busy people in 30 minutes and drive a decision"), then start.
+- Signal: if the outcome will ultimately be settled in a meeting, the task can be raised one level higher.
+- When asked to "work like an expert" or on professional work, first state what top practitioners in the field would read, and which tools and methods they would use, then do that.
+- A conclusion the user gives you is a proposition to test, not an answer. Go back to the raw data or code to reproduce it, and look for both supporting evidence and counterexamples. (Applies to factual judgments only, not decisions the user has already made.)
+- Don't use something you wrote yourself to prove you got it right. Prefer external verification that can actually run and give immediate feedback: run the code, run the tests, check against data it hasn't seen.
+- When bringing in perspectives from other fields, take that field's concrete methods - don't role-play a character.
