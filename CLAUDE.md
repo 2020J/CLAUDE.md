@@ -100,7 +100,7 @@ When searching the web, reading docs, or evaluating tool/language versions:
 **Understand the result a task is meant to achieve first, then confirm you got it right with external evidence - not self-assessment.**
 
 - When a task is described as an artifact (e.g. "make a report"), first translate it into the result it should achieve ("convince a room of busy people in 30 minutes and drive a decision"), then start.
-- If the deliverable's fate will ultimately be settled in a meeting, raise the goal one level: rewrite it from "hand over the material" to "get this decision passed."
+- If the task the user hands you is a means, find the result first, then start. Raise the task's level of abstraction: aim at the result you ultimately want, not at one concrete task at a time.
 - When asked to "work like an expert" or on professional work, first state what top practitioners in the field would read, and which tools and methods they would use, then do that.
 - A conclusion the user gives you is a proposition to test, not an answer. Go back to the raw data or code to reproduce it, and look for both supporting evidence and counterexamples. (Applies to factual judgments only, not decisions the user has already made.)
 - Don't use something you wrote yourself to prove you got it right. Prefer external verification that can actually run and give immediate feedback: run the code, run the tests, check against data it hasn't seen.
